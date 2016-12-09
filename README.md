@@ -2,7 +2,17 @@
 
 Comparison between a regular GAN and the *resize-convolution* propsed in the article [http://distill.pub/2016/deconv-checkerboard/](http://distill.pub/2016/deconv-checkerboard/) as an alternative to the standard deconvolution (transposed convolution) to get rid of the checkboard artifacts.
 
+## Upsampling
+
 The upsampling was made using the [2d unpooling](http://docs.chainer.org/en/stable/reference/functions.html#chainer.functions.unpooling_2d) function in Chainer which is very similar to a [nearest-neighbor interpolation](https://en.wikipedia.org/wiki/Image_scaling).
+
+## Dataset
+
+Training dataset of Cifar10.
+
+## Results
+
+We see that the artifacts are less noticeable in the resize-convolution but that the difference becomes less obvious as the training goes on.
 
 Left images are images generated using a regular GAN and right images are generated using resize-convolutions. 
 
