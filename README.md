@@ -1,6 +1,6 @@
 # GAN Resize Convolution
 
-Comparison between a regular GAN and the *resize-convolution* propsed in the article [http://distill.pub/2016/deconv-checkerboard/](http://distill.pub/2016/deconv-checkerboard/) as an alternative to the standard deconvolution (transposed convolution) in the generator to get rid of the checkboard artifacts.
+Comparison between a regular GAN and the *resize-convolution* propsed in the article [http://distill.pub/2016/deconv-checkerboard/](http://distill.pub/2016/deconv-checkerboard/) as an **alternative to the standard deconvolution (transposed convolution)** in the generator to get rid of the checkboard artifacts.
 
 ## Upsampling
 
