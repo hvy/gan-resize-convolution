@@ -14,7 +14,7 @@ Training dataset of CIFAR-10.
 
 We see that the artifacts are less noticeable in the resize-convolutions and that the images look more natural, but that the difference becomes less obvious as the training goes on.
 
-Left images are images generated using a regular GAN and right images are generated using resize-convolutions. 
+Left images are images generated using a regular GAN and right images are generated using the resize-convolutions technique.
 
 #### 1 Iteration (Left: Regular GAN, Right: Resize-convolution)
 
