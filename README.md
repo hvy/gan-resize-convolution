@@ -8,7 +8,7 @@ The upsampling was made using the [2d unpooling](http://docs.chainer.org/en/stab
 
 ## Dataset
 
-Training dataset of Cifar10.
+Training dataset of CIFAR-10.
 
 ## Results
 
