@@ -12,7 +12,7 @@ Training dataset of Cifar10.
 
 ## Results
 
-We see that the artifacts are less noticeable in the resize-convolution but that the difference becomes less obvious as the training goes on.
+We see that the artifacts are less noticeable in the resize-convolutions and that the images look more natural, but that the difference becomes less obvious as the training goes on.
 
 Left images are images generated using a regular GAN and right images are generated using resize-convolutions. 
 
