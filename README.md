@@ -16,57 +16,57 @@ We see that the artifacts are less noticeable in the resize-convolutions and tha
 
 Left images are images generated using a regular GAN and right images are generated using the resize-convolutions technique.
 
-#### 1 Iteration (Left: Regular GAN, Right: Resize-convolution)
+#### 1 iteration (Left: Regular GAN, Right: Resize-convolution)
 
 <img src="./samples/deconv/0.png" width="384px;"/>
 <img src="./samples/resize-conv/0.png" width="384px;"/>
 
-#### 1 Epochs
+#### 1 epoch
 
 <img src="./samples/deconv/1.png" width="384px;"/>
 <img src="./samples/resize-conv/1.png" width="384px;"/>
 
-#### 2 Epochs
+#### 2 epochs
 
 <img src="./samples/deconv/2.png" width="384px;"/>
 <img src="./samples/resize-conv/2.png" width="384px;"/>
 
-#### 3 Epochs
+#### 3 epochs
 
 <img src="./samples/deconv/3.png" width="384px;"/>
 <img src="./samples/resize-conv/3.png" width="384px;"/>
 
-#### 4 Epochs
+#### 4 epochs
 
 <img src="./samples/deconv/4.png" width="384px;"/>
 <img src="./samples/resize-conv/4.png" width="384px;"/>
 
-#### 5 Epochs
+#### 5 epochs
 
 <img src="./samples/deconv/5.png" width="384px;"/>
 <img src="./samples/resize-conv/5.png" width="384px;"/>
 
-#### 6 Epochs
+#### 6 epochs
 
 <img src="./samples/deconv/6.png" width="384px;"/>
 <img src="./samples/resize-conv/6.png" width="384px;"/>
 
-#### 7 Epochs
+#### 7 epochs
 
 <img src="./samples/deconv/7.png" width="384px;"/>
 <img src="./samples/resize-conv/7.png" width="384px;"/>
 
-#### 8 Epochs
+#### 8 epochs
 
 <img src="./samples/deconv/8.png" width="384px;"/>
 <img src="./samples/resize-conv/8.png" width="384px;"/>
 
-#### 9 Epochs
+#### 9 epochs
 
 <img src="./samples/deconv/9.png" width="384px;"/>
 <img src="./samples/resize-conv/9.png" width="384px;"/>
 
-#### 10 Epochs
+#### 10 epochs
 
 <img src="./samples/deconv/10.png" width="384px;"/>
 <img src="./samples/resize-conv/10.png" width="384px;"/>
